@@ -26,6 +26,6 @@ var byeSpeaker = {};
     window.byeSpeaker = byeSpeaker;
   } ) ();
 
-// STEP 9: Expose the 'byeSpeaker' object to the global scope. Name it
+// STEP 9: Expose the 'byeSpeaker' object to the global scope. Name itgg
 // 'byeSpeaker' on the global scope as well.
 // xxxx.xxxx = byeSpeaker;
